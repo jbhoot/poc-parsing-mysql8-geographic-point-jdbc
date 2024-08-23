@@ -1,3 +1,7 @@
+# README
+
+This is a complementary script intended to prove a few points raised [in this issue](https://github.com/justbhoot/poc-node-mysql2-bug-srid-4326-mysql8).
+
 ## How-to
 
 1. Install [scala 3.5.0](https://docs.scala-lang.org/getting-started/index.html) or above. Prior versions do not support running a script with inline dependencies.
